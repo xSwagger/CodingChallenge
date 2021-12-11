@@ -1,0 +1,90 @@
+body {
+  background: url(imm/background.jpg);
+  background-size: 100%;
+
+}
+
+/* inizio table */
+.table {
+  background-color: rgba(0,0,0, 0.55);
+  margin: auto;
+  border-radius: 25px;
+  width: 70%;
+  margin-top: 3%;
+  padding-bottom: 6%;
+    background-blend-mode: lighten;
+}
+
+/* header */
+header > img {
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 4%;
+}
+
+h1 {
+  color: #00e600;
+  margin-left: 40%;
+}
+
+/* nav */
+nav {
+  margin: auto;
+  width: 90%;
+  background-color: #00e600;
+}
+
+.navbar {
+  padding: 7px 0px;
+  display: inline-block;
+  margin-left: 40%;
+}
+
+/* main */
+.cap1, .cap2, .cap3 {
+  margin-left: 85px;
+  margin-top: 1%;
+}
+
+.monname {
+  margin-top: 3%;
+  font-size: 23px;
+  display: inline-block;
+  color: white;
+}
+
+.via {
+  font-size: 16px;
+  display: block;
+  color: white;
+  margin-left: 1%;
+}
+
+.stato {
+  display: block;
+  color: white;
+  margin-left: 1%;
+  font-size: 21px;
+}
+
+#barra1, #barra2, #barra3 {
+  margin-left: 1%;
+  padding-right: 40%;
+  border-radius: 5px;
+  padding-bottom: 1%;
+}
+
+#barra1 {
+    background-color: orange;
+    padding-right: 40%;
+  }
+
+#barra2 {
+  background-color: green;
+  padding-right: 70%;
+}
+
+#barra3 {
+  background-color: red;
+  padding-right: 20%;
+}
